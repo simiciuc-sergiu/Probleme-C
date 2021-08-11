@@ -1,4 +1,4 @@
-#define number 3465
+#define number 3256
 #define MAX_BITS 8
 
 unsigned long v[] = { 0 };
